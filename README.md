@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Torben
+# 👋 About
 
 I'm a data scientist & engineer with a research background and a hands-on approach to building robust, production-grade data solutions. I work across the stack — from cloud pipelines and ML models to APIs and web integrations — always with performance, transparency, and real-world usability in mind.
 
