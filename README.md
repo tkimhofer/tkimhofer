@@ -15,9 +15,7 @@ I'm a data scientist & engineer with a research background and a hands-on approa
 - **Lecturer & Research Fellow** — led metabolomics and ML projects at Imperial College London and Murdoch University
 
 ### 📦 On GitHub
-You'll find selected packages and tools, mainly from my academic and open development work:
-- [`metabom8`](https://github.com/tkimhofer/metabom8) — Fast O-PLS modeling for NMR data using C++ backends  
-- [`nmrdata`](https://github.com/tkimhofer/nmrdata) — Public datasets for NMR-based metabolic profiling
+You'll find selected packages and tools, mainly from my academic and open development work
 
 > Many recent projects are proprietary or client-owned and are not publicly visible here.
 
