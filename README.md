@@ -4,7 +4,7 @@ I'm a data scientist & engineer with a research background and a hands-on approa
 
 ### 🚀 What I do
 - Develop scalable data pipelines and ML/AI workflows (Databricks, GCP, BigQuery)
-- Build and deploy REST APIs for production systems (e.g. logistics & manufacturing flows like shake production)
+- Build and deploy REST APIs for production systems (e.g. e-com & manufacturing flows)
 - Design data-driven tools for e-commerce platforms (Shopify, headless APIs, analytics automation)
 - Optimize performance with C++, Rcpp/Armadillo, and efficient cloud infra
 - Blend research-grade rigor with engineering pragmatism
