@@ -27,7 +27,7 @@ Into smart tools, lean builds, and real-world impact?
 Let’s connect.
 
 [![Email](https://img.shields.io/badge/email-tkimhofer@gmail.com-blue?logo=gmail&logoColor=white)](mailto:tkimhofer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tkimhofer-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tkimhofer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tkimhofer-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/torben-kimhofer)
 
 📬 Reach out anytime — or drop a ⭐ if something here sparks your interest.
 
