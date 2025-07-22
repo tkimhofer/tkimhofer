@@ -22,10 +22,12 @@ My work spans the full stack: cloud data pipelines, ML workflows, REST APIs, and
 Most of what’s public here reflects academic and open development efforts.  
 > Many recent projects are proprietary or developed under NDA and are not publicly visible.
 
-### 🤝 Work with me
-I'm especially interested in freelance opportunities where domain knowledge meets data — from tailored analytics tools to production-ready integrations.
-Whether you're exploring a new use case or need a robust system built fast, let's talk.
+### 🤝 Freelance & Collab
+Into smart tools, lean builds, and real-world impact?  
+Let’s connect.
 
-Drop a ⭐ if something here resonates — or reach out directly to start a conversation.
+[![Email](https://img.shields.io/badge/email-tkimhofer@gmail.com-blue?logo=gmail&logoColor=white)](mailto:tkimhofer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tkimhofer-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tkimhofer)
 
+📬 Reach out anytime — or drop a ⭐ if something here sparks your interest.
 
