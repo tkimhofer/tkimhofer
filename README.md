@@ -22,7 +22,7 @@ My work spans the full stack: cloud data pipelines, ML workflows, REST APIs, and
 Most of what’s public here reflects academic and open development efforts.  
 > Many recent projects are proprietary or developed under NDA and are not publicly visible.
 
-### Let's connect
+### 🤝 Work with me
 I'm especially interested in freelance opportunities where domain knowledge meets data — from tailored analytics tools to production-ready integrations.
 Whether you're exploring a new use case or need a robust system built fast, let's talk.
 
