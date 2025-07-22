@@ -20,7 +20,7 @@ My work spans the full stack: cloud data pipelines, ML workflows, REST APIs, and
 
 ### 📦 On GitHub
 Most of what’s public here reflects academic and open development efforts.  
-> Many recent projects are proprietary or developed under NDA and are not publicly visible.
+> Many recent projects are proprietary and are not publicly visible.
 
 ### 🤝 Freelance & Collab
 Into smart tools, lean builds, and real-world impact?  
