@@ -14,7 +14,7 @@ My work spans the full stack: cloud data pipelines, ML workflows, REST APIs, and
 - Explore and define new use cases as a freelance contributor
 
 ### 🧠 Previously
-- **Senior Data Analyst E-commerce, omos media** — BBuilt Shopify-integrated tools for order quality assurance and demand forecasting
+- **Senior Data Analyst E-commerce, omos media** — built Shopify-integrated tools for order quality assurance and demand forecasting
 - **Senior Expert, ALDI Data & Analytics** — led design, prototyping, and rollout of data use cases across international buying and supplier domains (SaaS model)
 - **Lecturer & Research Fellow** — headed data science and ML projects in metabolomics at Imperial College London and Murdoch University
 
